@@ -1,9 +1,4 @@
-# UCSC-CE12
-Sean Sjahrial;
-First Assembly Program; decimal to binary converter
-
 ; Sean Sjahrial
-; 1299914
 ; CMPE 12
 ; LAB 6
 ; LAB Section 5 MW 8-10
